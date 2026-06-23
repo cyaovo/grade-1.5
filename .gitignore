@@ -1,0 +1,6 @@
+# Only track finished top-level notes and exported PDFs.
+*
+!*/
+!/.gitignore
+!/*.md
+!/*.pdf
